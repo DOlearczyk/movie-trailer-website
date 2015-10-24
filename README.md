@@ -4,7 +4,7 @@ Fresh Tomatoes! is a Movie Trailer Website where you can see my favourite movies
 
 ## Installation
 
-Simply download all .py scripts to the same folder and run the entertainment_center.py script.
+Simply download the repository and run the entertainment_center.py script.
 
 ## Requirements
 
